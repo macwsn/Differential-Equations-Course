@@ -1,5 +1,5 @@
 # Differentail Equations solver
-Repository presents solution to task from AGH Course of Differentail Equations. The task was to implement FDM and FEM solutions to differential equation:
+Repository presents solution to task from Differentail Equations Course from AGH UST 2025. Task was to implement FDM and FEM solutions to differential equation:
 ### Math part:
 
 <p align="center">
