@@ -3,7 +3,7 @@ Repository presents solution to task from AGH Course of Differentail Equations. 
 ### Math part:
 
 <p align="center">
-  <img src="(https://github.com/macwsn/Differential-Equations-Course/blob/main/Math.png)?raw=true" width="600">
+  <img src="https://github.com/macwsn/Differential-Equations-Course/blob/main/Math.png?raw=true" width="600">
 </p>
 
 ### Coding part was impelemented with python (FEM) and julia,C++(FDM).
