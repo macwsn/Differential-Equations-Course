@@ -25,7 +25,7 @@ julia FDM-julia.jl
 ```
 Code requires Plot dictionary
 
-[Code in C++](https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_cpp.cppp)
+[Code in C++](https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_cpp.cpp)
 
 To run:
 ```bash
