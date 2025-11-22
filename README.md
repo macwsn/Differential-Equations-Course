@@ -3,13 +3,13 @@ Repository presents solution to task from AGH Course of Differentail Equations. 
 ### Math part:
 
 <p align="center">
-  <img src="https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/Math.png?raw=true" width="600">
+  <img src="(https://github.com/macwsn/Differential-Equations-Course/blob/main/Math.png)?raw=true" width="600">
 </p>
 
 ### Coding part was impelemented with python (FEM) and julia,C++(FDM).
 Visualization in python was created using matplotlib and numpy, in Julia using Plot library.
 
-[Code in Python](https://przykladowa-strona.p][https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FEM/FEM-python.py)
+[Code in Python](https://github.com/macwsn/Differential-Equations-Course/blob/main/FEM/FEM-python.py)
 
 To run:
 ```bash
@@ -17,7 +17,7 @@ python3 FEM-python.py
 ```
 Code requires matplotlib,scipy and numpy
 
-[Code in Julia](https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FDM/FDM_julia.jl)
+[Code in Julia](https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_julia.jl)
 
 To run:
 ```bash
@@ -25,7 +25,7 @@ julia FDM-julia.jl
 ```
 Code requires Plot dictionary
 
-[Code in C++](https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FDM/FDM_cpp.cpp)
+[Code in C++](https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_cpp.cppp)
 
 To run:
 ```bash
