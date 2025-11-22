@@ -34,10 +34,10 @@ g++ -o solver FDM_cpp.cpp
 ```
 ### Solutions for 100 points on Plot
 #### Python
-<img src="https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FEM/FEM_python_chart.png" width="600" height="500">
+<img src="https://github.com/macwsn/Differential-Equations-Course/blob/main/FEM/FEM_python_chart.png" width="600" height="500">
 
 #### Julia
-<img src="https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FDM/FDM_julia_chart.png" width="600" height="500">
+<img src="https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_julia_chart.png" width="600" height="500">
 
 #### C++
-<img src="https://github.com/mcjwsn/Differential-Equations-FDM-and-FEM-solutions-with-Python-Julia-Cpp/blob/main/FDM/FDM_cpp_chart.png" width="600" height="500">
+<img src="https://github.com/macwsn/Differential-Equations-Course/blob/main/FDM/FDM_cpp_chart.png" width="600" height="500">
